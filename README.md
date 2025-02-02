@@ -1,4 +1,4 @@
-# QuantEcon.py
+# QuantEcon.py Cloned
 
 A high performance, open source Python code library for economics
 
